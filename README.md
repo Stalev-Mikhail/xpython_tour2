@@ -3,7 +3,10 @@
 
 This project consists of two individual tasks implemented in separate Python scripts: `task1.py` and `task2.py`. 
 
+
 ## Task 1: Interactive Story with temp input
+=======
+## Task 1: Interactive Story
 
 ### Description
 `task1.py` is an interactive text-based story where the user plays a character who asks their mom for permission to go outside. Depending on the temperature provided by the user, the story progresses in different directions with various endings.
