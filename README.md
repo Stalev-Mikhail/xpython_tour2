@@ -3,6 +3,9 @@
 
 This project consists of two individual tasks implemented in separate Python scripts: `task1.py` and `task2.py`. 
 
+
+## Task 1: Interactive Story with temp input
+=======
 ## Task 1: Interactive Story
 
 ### Description
